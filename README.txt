@@ -11,7 +11,7 @@ utilizing Python libraries like Pandas, Numpy, Seaborn, Matplotlib, and Scikit-l
 2. Usage
 3. Features
 4. Documentation
-6. Credits
+5. Credits
 
 ### Prerequisites
 - Python 3.10.9 (this is the version used for development and testing)
